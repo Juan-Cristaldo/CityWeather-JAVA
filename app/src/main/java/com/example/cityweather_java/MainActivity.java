@@ -7,6 +7,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
+import com.example.cityweather_java.IO.ApiService;
+
 public class MainActivity extends AppCompatActivity {
 
     TextView ivtexAsuncion, ivtexCiudadEste, ivtexEncarnacion, ivtexLomaPlata, ivtexVillaRica;
